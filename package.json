@@ -17,5 +17,9 @@
                 "path": "./themes/Juicy Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KendallPruitt/juicy-vscode-theme.git"
     }
 }
